@@ -5,8 +5,7 @@
   font-size: medium;
   font-weight: bold;
   text-align: center;
-  display: flex;
-  flex-wrap: wrap;
+  
   
 }
 h3{
@@ -22,9 +21,4 @@ h3{
 }
 figcaption{
   cursor: pointer;
-}
-img{
-  height: 150px;
-  width: 250px;
-  
 }

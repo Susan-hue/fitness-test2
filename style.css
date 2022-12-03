@@ -1,0 +1,30 @@
+
+
+
+#images{
+  font-size: medium;
+  font-weight: bold;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+h3{
+  background-color: aqua;
+  border: 5px solid;
+  border-radius: 5px;
+  height: 100px;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 20px;
+  padding-top: 50px ;
+  padding-bottom: 2px;
+}
+figcaption{
+  cursor: pointer;
+}
+img{
+  height: 150px;
+  width: 250px;
+  
+}
